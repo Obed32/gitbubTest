@@ -1,10 +1,20 @@
 button{
-    background-color: red;
+    background-color: rgba(10, 59, 55, 0.525);
     color: white;
     font-family: Roboto, Verdana, Arial;
     border:none;
+    margin-left: 300px;
+    margin-top: 20px;
 
 }
 img{
     width:300px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+h1{
+    font-family: Verdana, Arial;
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 70px;
 }
