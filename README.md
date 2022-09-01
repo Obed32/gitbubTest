@@ -5,7 +5,7 @@ I inserted an image which is found in the same folder where the code was.
 I used the div class for the flex to position the buttons towards the center of the page.
 img src is used to locate the source of my image.
 I created two buttons with each opening another page for more information on another tab after clicking. I created this option using the "target=_blank" otherwise, the link woul'dve opened on the same page.
-<a href> gives the option to link the button with a url or web address.
+"The a href" gives the option to link the button with a url or web address.
 
 CSS
 I styled the button elements such as the background color, color, margin-left, padding and text align.
