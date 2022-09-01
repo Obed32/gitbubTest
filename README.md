@@ -1,3 +1,4 @@
+Name: Obed Ogbada Ochigbo Student ID: 4671945
 This is a simple website page for hotel bookings. The first lines  link the html file to the CSS which is where styling was done.
 H1 is the heading of the website which welcomes users the the website where they can book for hotel rooms easily.
 I inserted an image which is found in the same folder where the code was.
